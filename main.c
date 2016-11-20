@@ -2,6 +2,6 @@
 
 int main(int argc, char **argv)
 {
-	printf("hello dfdfwsdasas     rld\n");
+	printf("hello dummtd\n");
 	return 0;
 }
